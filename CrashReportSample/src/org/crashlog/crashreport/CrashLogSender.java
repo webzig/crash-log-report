@@ -41,6 +41,7 @@ import android.util.Log;
  * Start a thread for report crash logs.
  * 
  * @author Liu,Yanjun
+ * 
  * @see http://www.crashlog.org
  *
  */
