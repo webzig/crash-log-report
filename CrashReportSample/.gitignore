@@ -1,0 +1,5 @@
+/proguard/
+/bin/
+/sample.keystore
+/.settings/
+/.DS_Store
