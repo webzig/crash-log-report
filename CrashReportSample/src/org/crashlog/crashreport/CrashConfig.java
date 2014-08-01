@@ -22,6 +22,7 @@ SOFTWARE. */
 
 package org.crashlog.crashreport;
 
+
 /**
  * 
  * All configurations is defined here.
